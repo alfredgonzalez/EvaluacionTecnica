@@ -1,0 +1,12 @@
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\bin\Debug\net5.0\entidades.deps.json
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\bin\Debug\net5.0\entidades.dll
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\bin\Debug\net5.0\entidades.pdb
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\entidades.csproj.AssemblyReference.cache
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\entidades.AssemblyInfoInputs.cache
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\entidades.AssemblyInfo.cs
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\entidades.csproj.CoreCompileInputs.cache
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\entidades.dll
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\refint\entidades.dll
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\entidades.pdb
+C:\Users\alfre\Desktop\TP-Parcial AlfredoGonzalez 2ºE\TP-SegundoParcial-AlfredoGonzalez{2ºE}\entidades\obj\Debug\net5.0\ref\entidades.dll
